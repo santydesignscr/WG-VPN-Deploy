@@ -6,6 +6,7 @@ It's very easy only run the following command and follow the instructions<br>
 `wget https://raw.githubusercontent.com/santydesignscr/WG-VPN-Deploy/main/VPN-Deploy.sh && bash VPN-Deploy.sh`
 
 # Manual Installation:
+<a href="https://justpaste.it/5qbjs">Read on JustPaste.it</a>
 <p>Used OS: Debian 11</p>
 <ol>
 <li>First you need to setup WARP to get IPV4 internet from the server:<br />wget -N https://raw.githubusercontent.com/fscarmen/warp/main/menu.sh &amp;&amp; bash menu.sh 4<br />Options:<br />WARP Type: Select option 1 (Use free account)<br />Priority: Option 3 (Use initial settings)<br /><br /></li>
