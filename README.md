@@ -20,5 +20,6 @@ It's very easy only run the following command and follow the instructions<br>
 <ul>
 <li>Each time that you change something on the server configuration or add/edit a client on the WireGuard UI click on Apply Config</li>
 <li>Default username and password for the WireGuard UI is admin, for security reasons change the password for the admin user from the WireGuard UI</li>
+<li><span>When you add a new client add ::/0 on Allowed IPs to enabled IPV6 internet access for the client</span></li>
 </ul>
 <p>And Ready, enjoy your VPN!</p>
