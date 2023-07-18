@@ -107,7 +107,7 @@ nano /etc/wireguard/db/server/interfaces.json
 
 echo 'Notes: \n
     Each time that you change something on the server configuration or add/edit a client on the WireGuard UI click on Apply Config \n
-    When you add a new client ::/0 on Allowed IPs to enabled IPV6 internet access for the client \n
+    When you add a new client add ::/0 on Allowed IPs to enabled IPV6 internet access for the client \n
     Default username and password for the WireGuard UI is admin, for security reasons change the password for the admin user from the WireGuard UI \n
 \n
 And Ready, enjoy your VPN'
